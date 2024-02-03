@@ -1,0 +1,31 @@
+body{
+    padding: 16px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+.chats{
+
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px grey;
+    background-color:black;
+}
+.msg{
+    border-radius: 20px;
+    background-color: gray;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.newchats{
+    margin-left: 16px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px grey;
+    background-color:black;
+}
